@@ -1,0 +1,15 @@
+.column {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+div .animals {
+  column-count: 4;
+}
+
+.image-size {
+  width: 300px;
+}
